@@ -39,4 +39,21 @@ ___
 [Wikipedia](http://www.wikipedia.com "Wikipedia")
 
 
-<!--  -->
+<!-- UL -->
+* Item 1 
+* Item 2 
+* Item 3 
+    * Nested item 1 
+    * Nested item 2 
+        * Nested item 3 
+
+<!-- OL  -->
+1. Item 1 
+1. Item 2 
+1. Item 3 
+
+<!-- Inline Code Block  -->
+`<p> Thsi is paragraph </p>`
+
+<!-- Images -->
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
